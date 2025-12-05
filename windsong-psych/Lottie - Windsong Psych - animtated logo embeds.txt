@@ -1,0 +1,103 @@
+BROWN
+
+oEmbed URL: 
+https://lottie.host/embed/19b9ab05-06a8-4f8a-bda3-2ea9c9390a67/kAmZcU6xAF.lottie
+
+Embed HTML: 
+<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.5/dist/dotlottie-wc.js" type="module"></script>
+<dotlottie-wc src="https://lottie.host/19b9ab05-06a8-4f8a-bda3-2ea9c9390a67/kAmZcU6xAF.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
+
+React: 
+import React from 'react';
+import { DotLottieReact } from '@lottiefiles/dotlottie-react';
+
+const App = () => {
+  return (
+    <DotLottieReact
+      src="https://lottie.host/19b9ab05-06a8-4f8a-bda3-2ea9c9390a67/kAmZcU6xAF.lottie"
+      loop
+      autoplay
+    />
+  );
+};
+
+
+
+GRAY
+
+oEmbed URL: 
+https://lottie.host/embed/16c5e3c6-566c-40ae-834d-8567a0dd9c0f/Itd82fuuSa.lottie
+
+Embed HTML: 
+<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.5/dist/dotlottie-wc.js" type="module"></script>
+<dotlottie-wc src="https://lottie.host/16c5e3c6-566c-40ae-834d-8567a0dd9c0f/Itd82fuuSa.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
+
+React: 
+import React from 'react';
+import { DotLottieReact } from '@lottiefiles/dotlottie-react';
+
+const App = () => {
+  return (
+    <DotLottieReact
+      src="https://lottie.host/16c5e3c6-566c-40ae-834d-8567a0dd9c0f/Itd82fuuSa.lottie"
+      loop
+      autoplay
+    />
+  );
+};
+
+
+
+
+BLUE
+
+oEmbed URL: 
+https://lottie.host/embed/7947034b-320f-4bff-a596-9744921e1025/sU7ZTuiwsd.lottie
+
+Embed HTML: 
+<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.5/dist/dotlottie-wc.js" type="module"></script>
+<dotlottie-wc src="https://lottie.host/7947034b-320f-4bff-a596-9744921e1025/sU7ZTuiwsd.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
+
+React: 
+import React from 'react';
+import { DotLottieReact } from '@lottiefiles/dotlottie-react';
+
+const App = () => {
+  return (
+    <DotLottieReact
+      src="https://lottie.host/7947034b-320f-4bff-a596-9744921e1025/sU7ZTuiwsd.lottie"
+      loop
+      autoplay
+    />
+  );
+};
+
+
+
+
+REGULAR
+
+oEmbed URL: 
+https://lottie.host/embed/67d8b0a5-8ee0-4a8f-bf42-33a157fd606e/OdFg3dNfIP.lottie
+
+Embed HTML: 
+<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.5/dist/dotlottie-wc.js" type="module"></script>
+<dotlottie-wc src="https://lottie.host/67d8b0a5-8ee0-4a8f-bf42-33a157fd606e/OdFg3dNfIP.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
+
+React: 
+import React from 'react';
+import { DotLottieReact } from '@lottiefiles/dotlottie-react';
+
+const App = () => {
+  return (
+    <DotLottieReact
+      src="https://lottie.host/67d8b0a5-8ee0-4a8f-bf42-33a157fd606e/OdFg3dNfIP.lottie"
+      loop
+      autoplay
+    />
+  );
+};
+
+Asset Link:
+https://lottie.host/67d8b0a5-8ee0-4a8f-bf42-33a157fd606e/OdFg3dNfIP.lottie
+
